@@ -7,3 +7,7 @@
 /instance/*.db
 /.redo
 *.pyc
+/pyenv
+/build
+/dist
+
