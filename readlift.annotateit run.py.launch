@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.python.pydev.debug.regularLaunchConfigurationType">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/readlift.annotateit/run.py"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<mapAttribute key="org.eclipse.debug.core.environmentVariables">
+<mapEntry key="ELASTICSEARCH_HOST" value="http://192.168.178.26:9200"/>
+<mapEntry key="RECAPTCHA_PRIVATE_KEY" value="6Lc0U-MSAAAAANsOXWbMQxQ_SYwgBbnm-JM_mQXB"/>
+<mapEntry key="RECAPTCHA_PUBLIC_KEY" value="6Lc0U-MSAAAAAFBFR8WI19Jj5bcVdYXg45kCvW0m"/>
+<mapEntry key="SECRET_KEY" value="DibR3IsUqANtD6aBnMz9y+4jHubdOOYmGMsd8m7IEcI="/>
+</mapAttribute>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="${workspace_loc:readlift.annotateit/run.py}"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_OTHER_WORKING_DIRECTORY" value="${workspace_loc:readlift.annotateit}"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_TOOL_ARGUMENTS" value=""/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_WORKING_DIRECTORY" value="${workspace_loc:readlift.annotateit}"/>
+<stringAttribute key="org.python.pydev.debug.ATTR_INTERPRETER" value="__default"/>
+<stringAttribute key="org.python.pydev.debug.ATTR_PROJECT" value="readlift.annotateit"/>
+<intAttribute key="org.python.pydev.debug.ATTR_RESOURCE_TYPE" value="1"/>
+</launchConfiguration>
