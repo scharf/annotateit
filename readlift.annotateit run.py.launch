@@ -7,6 +7,7 @@
 <listEntry value="1"/>
 </listAttribute>
 <mapAttribute key="org.eclipse.debug.core.environmentVariables">
+<mapEntry key="DEBUG" value="true"/>
 <mapEntry key="ELASTICSEARCH_HOST" value="http://192.168.178.26:9200"/>
 <mapEntry key="RECAPTCHA_PRIVATE_KEY" value="6Lc0U-MSAAAAANsOXWbMQxQ_SYwgBbnm-JM_mQXB"/>
 <mapEntry key="RECAPTCHA_PUBLIC_KEY" value="6Lc0U-MSAAAAAFBFR8WI19Jj5bcVdYXg45kCvW0m"/>
